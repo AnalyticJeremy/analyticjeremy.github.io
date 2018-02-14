@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekyll on Any Means Necessary</title>
+    <link>/tags/jekyll/</link>
+    <description>Recent content in Jekyll on Any Means Necessary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 14 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>/post/2017-01-14-hello-world/</link>
+      <pubDate>Sat, 14 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-01-14-hello-world/</guid>
+      <description>So this is just your basic “hello world” post. I’m testing my workflow for writing blog posts, which I hope will be…
+write posts using R Markdownknit to MDcommit to GitHubhost with github.ioR MarkdownThis post is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.</description>
+    </item>
+    
+  </channel>
+</rss>

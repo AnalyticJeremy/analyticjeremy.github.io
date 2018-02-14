@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Any Means Necessary</title>
+    <link>/</link>
+    <description>Recent content on Any Means Necessary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 30 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting Peng&#39;s Podcasts - Part 2</title>
+      <link>/post/2017-03-07-predicting-peng-2/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-03-07-predicting-peng-2/</guid>
+      <description>Back in February, I wrote a post trying to predict when the output of Roger Peng’s newer podcast (“The Effort Report”) would surpass the output of his original podcast (“Not So Standard Deviations”). Now that some time has passed, let’s take a look back and see how well that prediction held up.
+In that previous post, I used a very simple linear rate of the output of the two podcasts to predict when the episode count of “The Effort Report” would surpass that of “NSSD”.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Peng&#39;s Podcasts - Part 1</title>
+      <link>/post/2017-03-07-predicting-peng-1/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-03-07-predicting-peng-1/</guid>
+      <description>Data science hero Roger Peng is the co-host of two different podcasts. For his first podcast, he joined Hilary Parker on a data science podcast called “Not So Standard Deviations”. Their first episode was released on September 16, 2015, and since then they have released a total of 33 episodes. That works out to a rate of 0.061 episodes per day.
+But “Not So Standard Deviations” is not Dr. Peng’s only venture in the podcasting world.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/post/2017-01-14-hello-world/</link>
+      <pubDate>Sat, 14 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-01-14-hello-world/</guid>
+      <description>So this is just your basic “hello world” post. I’m testing my workflow for writing blog posts, which I hope will be…
+write posts using R Markdownknit to MDcommit to GitHubhost with github.ioR MarkdownThis post is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/about/</guid>
+      <description>Hello! My name is Jeremy Peach, and I&amp;rsquo;m a data scientist. For my day job, I work as a Cloud Solution Architect at Microsoft where I help customers with cloud-scale data science. In my spare time, I apply those same skills to satisfy my own personal curiosity.
+This blog gives me a platform to share these personal data analyses with the rest of the world. Most will be frivilous, but some may be serious.</description>
+    </item>
+    
+  </channel>
+</rss>

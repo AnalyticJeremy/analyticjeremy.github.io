@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Predicting Peng on Any Means Necessary</title>
+    <link>/tags/predicting-peng/</link>
+    <description>Recent content in Predicting Peng on Any Means Necessary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 30 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/predicting-peng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting Peng&#39;s Podcasts - Part 2</title>
+      <link>/post/2017-03-07-predicting-peng-2/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-03-07-predicting-peng-2/</guid>
+      <description>Back in February, I wrote a post trying to predict when the output of Roger Peng’s newer podcast (“The Effort Report”) would surpass the output of his original podcast (“Not So Standard Deviations”). Now that some time has passed, let’s take a look back and see how well that prediction held up.
+In that previous post, I used a very simple linear rate of the output of the two podcasts to predict when the episode count of “The Effort Report” would surpass that of “NSSD”.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Peng&#39;s Podcasts - Part 1</title>
+      <link>/post/2017-03-07-predicting-peng-1/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-03-07-predicting-peng-1/</guid>
+      <description>Data science hero Roger Peng is the co-host of two different podcasts. For his first podcast, he joined Hilary Parker on a data science podcast called “Not So Standard Deviations”. Their first episode was released on September 16, 2015, and since then they have released a total of 33 episodes. That works out to a rate of 0.061 episodes per day.
+But “Not So Standard Deviations” is not Dr. Peng’s only venture in the podcasting world.</description>
+    </item>
+    
+  </channel>
+</rss>

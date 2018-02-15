@@ -20,11 +20,29 @@
     </item>
     
     <item>
+      <title>Hockey</title>
+      <link>/tags/hockey/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hockey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jekyll</title>
       <link>/tags/jekyll/</link>
       <pubDate>Sat, 14 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nashville Predators</title>
+      <link>/tags/nashville-predators/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nashville-predators/</guid>
       <description></description>
     </item>
     
@@ -61,6 +79,15 @@
       <pubDate>Sat, 14 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/sample-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stats</title>
+      <link>/tags/stats/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/stats/</guid>
       <description></description>
     </item>
     
